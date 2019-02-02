@@ -1,0 +1,187 @@
+2019-01-31 22:42:56,863 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:42:56,866 [      3]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:42:57,864 [   1001]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 890 ms
+2019-01-31 22:42:58,055 [   1192]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:42:58,501 [   1638]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 446 ms
+2019-01-31 22:42:58,501 [   1638]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:42:58,718 [   1855]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:42:59,217 [   2354]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2019-01-31 22:42:59,217 [   2354]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-01-31 22:42:59,238 [   2375]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-01-31 22:42:59,238 [   2375]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started e4055e49
+2019-01-31 22:42:59,244 [   2381]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException
+2019-01-31 22:42:59,694 [   2831]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 10 ms
+2019-01-31 22:43:00,788 [   3925]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: HelloWorld
+2019-01-31 22:43:01,466 [   4603]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:43:01,606 [   4743]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 585 ms, 1 sources processed
+2019-01-31 22:43:01,613 [   4750]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [HelloWorld]
+2019-01-31 22:43:03,268 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:43:03,268 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:43:03,824 [    556]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 506 ms
+2019-01-31 22:43:03,857 [    589]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:43:03,933 [    665]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:43:04,318 [   1050]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 385 ms
+2019-01-31 22:43:04,318 [   1050]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:43:04,426 [   1158]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:43:04,626 [   1358]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1358 ms
+2019-01-31 22:43:04,736 [   1468]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-01-31 22:43:32,708 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:43:32,824 [    116]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:43:33,204 [    496]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 360 ms
+2019-01-31 22:43:33,304 [    596]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:43:33,535 [    827]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 231 ms
+2019-01-31 22:43:33,535 [    827]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:43:33,614 [    906]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:43:34,349 [   1641]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2019-01-31 22:43:34,349 [   1641]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2019-01-31 22:43:34,368 [   1660]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2019-01-31 22:43:34,368 [   1660]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started 86c76ad8
+2019-01-31 22:43:35,304 [   2596]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 0 ms
+2019-01-31 22:43:35,714 [   3006]   INFO - l.storage.BuildTargetTypeState - Unknown java-production target: HelloWorld
+2019-01-31 22:43:35,814 [   3106]   INFO - s.incremental.java.JavaBuilder - Compiling 1 java files; module: helloworld
+2019-01-31 22:43:36,814 [   4106]   INFO - brains.jps.incremental.Builder - Dependency analysis found 0 affected files
+2019-01-31 22:43:36,854 [   4146]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:43:36,972 [   4264]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'java' builder took 934 ms, 1 sources processed
+2019-01-31 22:43:36,972 [   4264]   INFO - s.incremental.java.JavaBuilder - javac 1.8.0_101 was used to compile [helloworld]
+2019-01-31 22:43:38,034 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:43:38,034 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:43:38,437 [    403]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 365 ms
+2019-01-31 22:43:38,454 [    420]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:43:38,473 [    439]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:43:38,698 [    664]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 225 ms
+2019-01-31 22:43:38,698 [    664]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:43:38,767 [    733]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:43:38,873 [    839]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 839 ms
+2019-01-31 22:43:41,739 [   3705]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-01-31 22:56:05,974 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:56:06,021 [     47]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:56:07,034 [   1060]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 950 ms
+2019-01-31 22:56:07,221 [   1247]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:56:07,819 [   1845]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 598 ms
+2019-01-31 22:56:07,819 [   1845]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:56:08,113 [   2139]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:56:08,548 [   2574]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:56:09,431 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:56:09,431 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:56:10,275 [    844]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 788 ms
+2019-01-31 22:56:10,323 [    892]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:56:10,381 [    950]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:56:10,747 [   1316]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 366 ms
+2019-01-31 22:56:10,748 [   1317]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:56:10,873 [   1442]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:56:11,081 [   1650]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1650 ms
+2019-01-31 22:56:25,924 [  16493]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-01-31 22:56:26,533 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 22:56:26,540 [      7]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 22:56:26,968 [    435]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 385 ms
+2019-01-31 22:56:26,985 [    452]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 22:56:27,005 [    472]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 22:56:27,213 [    680]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 208 ms
+2019-01-31 22:56:27,213 [    680]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 22:56:27,281 [    748]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 22:56:27,391 [    858]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 858 ms
+2019-01-31 22:56:31,245 [   4712]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-01-31 23:00:01,472 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:00:01,540 [     68]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:00:02,861 [   1389]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1209 ms
+2019-01-31 23:00:03,140 [   1668]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:00:04,164 [   2692]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1024 ms
+2019-01-31 23:00:04,164 [   2692]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:00:04,334 [   2862]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:00:04,633 [   3161]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:00:06,605 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:00:06,605 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:00:07,691 [   1086]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 956 ms
+2019-01-31 23:00:07,714 [   1109]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:00:07,744 [   1139]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:00:08,120 [   1515]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 376 ms
+2019-01-31 23:00:08,120 [   1515]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:00:08,210 [   1605]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:00:08,340 [   1735]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1735 ms
+2019-01-31 23:00:14,823 [   8218]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-01-31 23:03:31,443 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:03:31,486 [     43]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:03:32,219 [    776]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 647 ms
+2019-01-31 23:03:32,413 [    970]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:03:32,933 [   1490]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 520 ms
+2019-01-31 23:03:32,933 [   1490]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:03:33,192 [   1749]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:03:33,590 [   2147]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:03:34,309 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:03:34,309 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:03:35,122 [    813]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 733 ms
+2019-01-31 23:03:35,151 [    842]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:03:35,179 [    870]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:03:35,543 [   1234]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 364 ms
+2019-01-31 23:03:35,543 [   1234]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:03:35,627 [   1318]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:03:35,742 [   1433]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1440 ms
+2019-01-31 23:03:40,772 [   6463]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-01-31 23:03:41,342 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:03:41,343 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:03:41,942 [    600]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 550 ms
+2019-01-31 23:03:41,960 [    618]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:03:41,982 [    640]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:03:42,273 [    931]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 291 ms
+2019-01-31 23:03:42,273 [    931]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:03:42,339 [    997]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:03:42,472 [   1130]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1136 ms
+2019-01-31 23:03:48,177 [   6835]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-01-31 23:03:48,784 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:03:48,784 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:03:49,261 [    477]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 439 ms
+2019-01-31 23:03:49,279 [    495]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:03:49,299 [    515]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:03:49,539 [    755]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 240 ms
+2019-01-31 23:03:49,539 [    755]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:03:49,603 [    819]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:03:49,709 [    925]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 935 ms
+2019-01-31 23:03:58,649 [   9865]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-01-31 23:05:39,203 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:05:39,226 [     23]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:05:39,969 [    766]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 658 ms
+2019-01-31 23:05:40,178 [    975]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:05:40,685 [   1482]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 507 ms
+2019-01-31 23:05:40,690 [   1487]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:05:41,003 [   1800]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:05:41,289 [   2086]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:05:42,883 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:05:42,889 [      6]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:05:44,072 [   1189]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 891 ms
+2019-01-31 23:05:44,184 [   1301]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:05:44,262 [   1379]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:05:44,488 [   1605]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 226 ms
+2019-01-31 23:05:44,488 [   1605]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:05:44,549 [   1666]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:05:44,713 [   1830]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1830 ms
+2019-01-31 23:05:47,630 [   4747]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-01-31 23:05:48,223 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:05:48,223 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:05:48,873 [    650]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 602 ms
+2019-01-31 23:05:48,894 [    671]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:05:48,929 [    706]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:05:49,192 [    969]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 263 ms
+2019-01-31 23:05:49,192 [    969]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:05:49,259 [   1036]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:05:49,379 [   1156]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1158 ms
+2019-01-31 23:06:36,698 [  48475]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-01-31 23:06:37,278 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:06:37,278 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:06:37,658 [    380]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 360 ms
+2019-01-31 23:06:37,678 [    400]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:06:37,701 [    423]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:06:37,918 [    640]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 217 ms
+2019-01-31 23:06:37,918 [    640]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:06:37,987 [    709]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:06:38,098 [    820]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 830 ms
+2019-01-31 23:06:45,108 [   7830]   INFO - rains.jps.cmdline.BuildSession - No changes found since last build. Exiting.
+2019-01-31 23:06:45,668 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-01-31 23:06:45,668 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_101/lib/tools.jar;C:/Users/cnher/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2017.3.4/9f9a05f798720d7da2e3b3af8983552a840ed5d4/ideaIC-2017.3.4/lib/optimizedFileManager.jar
+2019-01-31 23:06:46,048 [    380]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 340 ms
+2019-01-31 23:06:46,068 [    400]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-01-31 23:06:46,088 [    420]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/cnher/IdeaProjects/helloworld, global options path = E:/IDrive-Sync/Skool/2019 winter/cse 403/build/myCustom-sandbox/config/options
+2019-01-31 23:06:46,308 [    640]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 220 ms
+2019-01-31 23:06:46,308 [    640]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-01-31 23:06:46,368 [    700]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2019-01-31 23:06:46,478 [    810]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 810 ms
+2019-01-31 23:06:52,128 [   6460]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.

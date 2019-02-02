@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="CompileDirty" count="2" />
+      <entry action="Debug" count="5" />
+      <entry action="EditorBackSpace" count="11" />
+      <entry action="MyDebugAction" count="24" />
+      <entry action="NewProject" count="1" />
+      <entry action="Run" count="11" />
+      <entry action="ShowProjectStructureSettings" count="1" />
+      <entry action="Stop" count="3" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="editRunConfigurations" count="5" />
+    </counts>
+  </component>
+</application>

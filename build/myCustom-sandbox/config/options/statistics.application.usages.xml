@@ -1,0 +1,11 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.Application.Debug" count="5" />
+      <entry feature="execute.Application.Run" count="3" />
+      <entry feature="execute.my_run_configuration_id.Run" count="8" />
+      <entry feature="ideaapp.started" count="15" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

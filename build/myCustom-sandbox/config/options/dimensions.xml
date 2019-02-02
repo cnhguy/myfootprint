@@ -1,0 +1,21 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="822" y="207" />
+    <location key="new project wizard.0.0.1920.1080" x="613" y="74" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="963" y="450" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="626" y="366" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="196" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="600" y="306" />
+    <location key="SettingsEditor.0.0.1920.1080" x="440" y="116" />
+    <size key="new project wizard.0.0.1920.1080" width="858" height="753" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="702" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1384" height="332" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1384" height="332" />
+  </component>
+</application>
