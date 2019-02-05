@@ -2,13 +2,6 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex" />
-        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex" />
@@ -51,6 +44,14 @@
         <option value="java.annotations" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex" />
         <option value="org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex" />
+        <option value="org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex" />
       </list>
     </option>
   </component>

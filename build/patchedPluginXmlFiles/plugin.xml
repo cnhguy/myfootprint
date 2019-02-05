@@ -3,19 +3,26 @@
   <change-notes>
       Add change notes here.&lt;br&gt;
       &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
-  <idea-version since-build="173.4548" until-build="173.*"/>
-  <id>FootPrint.FootPrint</id>
-  <name>Plugin display name here</name>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <idea-version since-build="183.5429" until-build="183.*"/>
+  <id>com.eric.my-plugin</id>
+  <name>poop</name>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">Dave's Beans</vendor>
   <description>
     Enter short description for your plugin here.&lt;br&gt;
     &lt;em&gt;most HTML tags may be used&lt;/em&gt;
     </description>
+  <depends>com.intellij.modules.lang</depends>
   <extensions defaultExtensionNs="com.intellij">
     <configurationType implementation="MyRunConfigurationType"/>
+    <programRunner implementation="MyProgramRunner"/>
+    <executor implementation="MyExecutor"/>
   </extensions>
   <actions>
-    <action id="MyDebugAction" class="MyDebugActionn" text="MyDebugActionn" description="my__debug_action">
+    <group id="MyPlugin.SampleMenu" text="Greeting" description="Greeting menu">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action id="Myplugin.Textboxes" class="HelloAction" text="Hello" description="Says hello"/>
+    </group>
+    <action id="MyDebugAction" class="MyDebugAction" text="MyDebugActionn" description="my__debug_action">
       <add-to-group group-id="RunnerActions" anchor="last"/>
     </action>
   </actions>

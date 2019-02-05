@@ -1,16 +1,16 @@
 <application>
   <component name="UpdatesConfigurable">
+    <option name="CHECK_NEEDED" value="false"/>
     <enabledExternalComponentSources>
       <item value="Android SDK"/>
     </enabledExternalComponentSources>
-    <knownExternalComponentSources>
-      <item value="Android SDK"/>
-    </knownExternalComponentSources>
     <option name="externalUpdateChannels">
       <map>
         <entry key="Android SDK" value="Stable Channel"/>
       </map>
     </option>
-    <option name="CHECK_NEEDED" value="false"/>
+    <knownExternalComponentSources>
+      <item value="Android SDK"/>
+    </knownExternalComponentSources>
   </component>
 </application>

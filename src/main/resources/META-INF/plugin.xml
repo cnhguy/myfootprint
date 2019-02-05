@@ -1,7 +1,7 @@
 <idea-plugin>
-    <id>FootPrint.FootPrint</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <id>com.eric.my-plugin</id>
+    <name>poop</name>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">Dave's Beans</vendor>
 
     <description><![CDATA[
     Enter short description for your plugin here.<br>
@@ -14,18 +14,22 @@
     <depends>com.intellij.modules.lang</depends>
     -->
 
+    <depends>com.intellij.modules.lang</depends>
+
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
-        <configurationType implementation="MyRunConfigurationType" />
+		<configurationType implementation="MyRunConfigurationType" />
+        <programRunner implementation="MyProgramRunner"/>
+        <executor implementation="MyExecutor"/>
     </extensions>
 
     <actions>
-        <!-- Add your actions here -->
-        <action id="MyDebugAction" class="MyDebugActionn" text="MyDebugActionn"
+        <group id="MyPlugin.SampleMenu" text="Greeting" description="Greeting menu">
+            <add-to-group group-id="MainMenu" anchor="last"/>
+            <action id="Myplugin.Textboxes" class="HelloAction" text="Hello" description="Says hello"/>
+        </group>
+		<action id="MyDebugAction" class="MyDebugAction" text="MyDebugActionn"
                 description="my__debug_action">
             <add-to-group group-id="RunnerActions" anchor="last"/>
         </action>
     </actions>
-
-
 </idea-plugin>
